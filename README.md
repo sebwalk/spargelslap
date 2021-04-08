@@ -1,3 +1,5 @@
+![Benni gets slapped by an asparagus](assets/flipbook.png)
+
 # Do you know [Eel Slap](http://eelslap.com)?
 
 My friends and I spent the first Covid lockdown working for a local farm on their asparagus fields.
